@@ -2,13 +2,13 @@
 
 # Henrique 👨‍💻
 
-### Software Developer • Python • TypeScript • Node.js
+### Software Developer • 3D Designer
 
-Desenvolvendo aplicações desktop, web e ferramentas para automação, organização e impressão 3D.
+Desenvolvendo softwares, ferramentas para impressão 3D e soluções CAD para joalheria.
 
 <p>
   <a href="https://github.com/Henryzkj">
-    <img src="https://komarev.com/ghpvc/?username=Henryzkj&style=for-the-badge&color=0e75b6" />
+    <img src="https://komarev.com/ghpvc/?username=Henryzkj&style=for-the-badge&color=0e75b6"/>
   </a>
 </p>
 
@@ -18,19 +18,54 @@ Desenvolvendo aplicações desktop, web e ferramentas para automação, organiza
 
 # 👋 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Software** apaixonado por criar soluções úteis.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNAMA – Universidade da Amazônia** e desenvolvedor apaixonado por criar soluções úteis, modernas e bem estruturadas.
 
 Atualmente desenvolvo aplicações utilizando **Python**, **TypeScript** e **Node.js**, com foco em performance, organização e experiência do usuário.
 
-### Áreas de interesse
+Além do desenvolvimento de software, também trabalho com **modelagem 3D para joalheria e impressão 3D**, utilizando o **Rhino 8** para criação de modelos CAD de alta precisão.
+
+## 💼 Áreas de atuação
 
 - 💻 Desenvolvimento Desktop
 - 🌐 Desenvolvimento Web
-- 🐍 Python
-- ⚡ Backend
+- ⚙️ Desenvolvimento Backend
+- 🐍 Desenvolvimento em Python
 - 🗄️ Banco de Dados
+- 🎨 Modelagem 3D (Rhino 8)
+- 💍 Design CAD para Joalheria
 - 🖨️ Impressão 3D
-- 🎨 Modelagem CAD (Rhino 8)
+
+---
+
+# 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+**UNAMA – Universidade da Amazônia**  
+📅 **2026 – 2028** *(Em andamento)*
+
+Durante a graduação estou aprofundando meus conhecimentos em desenvolvimento de software, banco de dados, engenharia de software, arquitetura de sistemas e desenvolvimento web.
+
+---
+
+# 🌎 Idiomas
+
+| Idioma | Nível |
+|---------|--------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Intermediário |
+| 🇪🇸 Espanhol | Básico |
+| 🇫🇷 Francês | Básico |
+| 🇮🇹 Italiano | Básico |
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,express,postgresql,sqlite,docker,git,github,vscode,html,css&perline=6"/>
+
+</div>
 
 ---
 
@@ -43,7 +78,7 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 ### Recursos
 
 - 📂 Organização automática
-- 🔍 Pesquisa inteligente
+- 🔍 Busca inteligente
 - 🏷️ Sistema de Tags
 - ⭐ Favoritos
 - 🖼️ Preview dos modelos
@@ -51,26 +86,6 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 - 💳 Sistema Premium
 - 📦 Backup
 - 📈 Dashboard
-
----
-
-# 💼 Projetos
-
-| Projeto | Tecnologias |
-|----------|-------------|
-| **STL Vault** | Python • PySide6 • SQLite • PostgreSQL |
-| **Scripts Python** | Python |
-| **Modelagem 3D** | Rhino 8 |
-
----
-
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,express,postgresql,sqlite,docker,git,github,vscode,html,css&perline=6"/>
-
-</div>
 
 ---
 
@@ -109,9 +124,10 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 # 🎯 Atualmente
 
 - 🚀 Desenvolvendo o STL Vault
-- 📚 Aprimorando conhecimentos em Backend
-- 🧠 Estudando Arquitetura de Software
+- 📚 Estudando Arquitetura de Software
+- ⚙️ Aprimorando conhecimentos em Backend
 - ☁️ Explorando integrações com Cloud Storage
+- 💎 Trabalhando com modelagem 3D para joalheria
 
 ---
 
@@ -130,11 +146,25 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 <div align="center">
 
+<a href="mailto:Sergiohenrique3938@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/henrique-freitas-581633383/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Henryzkj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+### 📬 Informações de contato
+
+- 📧 **E-mail:** Sergiohenrique3938@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/henrique-freitas-581633383/
+- 💬 **Discord:** `henryoyy`
 
 ---
 
