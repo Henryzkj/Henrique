@@ -20,9 +20,9 @@ Desenvolvendo aplicações desktop, web e ferramentas para automação, organiza
 
 Sou estudante de **Análise e Desenvolvimento de Software** apaixonado por criar soluções úteis.
 
-Atualmente desenvolvo aplicações utilizando **Python**, **TypeScript** e **Node.js**, com foco em performance, organização e uma boa experiência para o usuário.
+Atualmente desenvolvo aplicações utilizando **Python**, **TypeScript** e **Node.js**, com foco em performance, organização e experiência do usuário.
 
-Tenho interesse principalmente em:
+### Áreas de interesse
 
 - 💻 Desenvolvimento Desktop
 - 🌐 Desenvolvimento Web
@@ -44,7 +44,7 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 - 📂 Organização automática
 - 🔍 Pesquisa inteligente
-- 🏷️ Tags
+- 🏷️ Sistema de Tags
 - ⭐ Favoritos
 - 🖼️ Preview dos modelos
 - ☁️ Integração com armazenamento em nuvem
@@ -57,18 +57,18 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 # 💼 Projetos
 
 | Projeto | Tecnologias |
-|---------|-------------|
-| STL Vault | Python • PySide6 • SQLite |
-| Scripts Python | Python |
-| Ferramentas 3D | Rhino 8 |
+|----------|-------------|
+| **STL Vault** | Python • PySide6 • SQLite • PostgreSQL |
+| **Scripts Python** | Python |
+| **Modelagem 3D** | Rhino 8 |
 
 ---
 
-# 🛠 Tecnologias
+# 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,express,postgresql,sqlite,docker,git,github,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,express,postgresql,sqlite,docker,git,github,vscode,html,css&perline=6"/>
 
 </div>
 
@@ -77,14 +77,11 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 # 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
-</div>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henryzkj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monafmenezes&theme=react-dark&area=true&hide_border=true&color=00bfbf" alt="Contribution Graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryzkj&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -99,11 +96,11 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 ---
 
-# 📈 Atividade
+# 📈 Gráfico de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henryzkj&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Henryzkj&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -112,20 +109,20 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 # 🎯 Atualmente
 
 - 🚀 Desenvolvendo o STL Vault
-- 📚 Estudando novas tecnologias
-- 🧠 Aprimorando arquitetura de software
-- ⚡ Construindo aplicações completas
+- 📚 Aprimorando conhecimentos em Backend
+- 🧠 Estudando Arquitetura de Software
+- ☁️ Explorando integrações com Cloud Storage
 
 ---
 
-# 📚 Aprendendo
+# 📚 Estudando
 
-- Arquitetura de Software
 - Docker
 - PostgreSQL
 - APIs REST
 - Electron
-- Cloud Storage
+- TypeScript
+- Clean Architecture
 
 ---
 
@@ -134,7 +131,7 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 <div align="center">
 
 <a href="https://github.com/Henryzkj">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -143,9 +140,8 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 <div align="center">
 
-### 💡 "Com grandes poderes vêm grandes responsabilidades"
+### 💡 *"Com grandes poderes vêm grandes responsabilidades."*
 
-⭐ Obrigado por visitar meu perfil.
+⭐ Obrigado por visitar meu perfil!
 
 </div>
-```
