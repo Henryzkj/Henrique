@@ -76,10 +76,16 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 # 📊 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henryzkj&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryzkj&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monafmenezes&theme=react-dark&area=true&hide_border=true&color=00bfbf" alt="Contribution Graph" />
+</div>
 
 ---
 
