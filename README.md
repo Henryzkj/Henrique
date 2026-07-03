@@ -76,11 +76,12 @@ Sistema profissional para gerenciamento de bibliotecas STL.
 
 # 📊 Estatísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henryzkj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryzkj&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henryzkj&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryzkj&layout=compact&theme=tokyonight"/>
+</p>
 
 </div>
 
